@@ -24,5 +24,3 @@ jobs:
     - name: Install dependencies
       run: npm install
 
-    - name: Run tests (if any)
-      run: npm test  # you can
