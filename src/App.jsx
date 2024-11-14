@@ -5,7 +5,7 @@ import Routers from "./Router";
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/Project-Manager" >
       <Routers  />
     </Router>
   )
